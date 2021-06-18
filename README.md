@@ -1,5 +1,5 @@
 # CLASS E DEF COM PYTHON
-- No arquivo **CALCULADORA.PY ** , temos interação com o usuário aonde o mesmo digita 2 números para ser somado , multiplicado , subtraido e divido
+- No arquivo **CALCULADORA.PY** , temos interação com o usuário aonde o mesmo digita 2 números para ser somado , multiplicado , subtraido e divido
       resultado impresso na tela
 	  obs: 1°número = 10
 	  2°número = 20
