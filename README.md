@@ -1,4 +1,4 @@
-# Códigos pyhton.py
+# Códigos python.py
 ----------------------------------------------------------------------------------------------------------------------------------------------------
 - No arquivo **CALCULADORA.PY** , temos interação com o usuário aonde o mesmo digita 2 números para ser somado , multiplicado , subtraido e divido.
 Resultado na tela:
