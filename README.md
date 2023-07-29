@@ -1,14 +1,6 @@
-# Códigos python.py
-----------------------------------------------------------------------------------------------------------------------------------------------------
-- No arquivo **CALCULADORA.PY** , temos interação com o usuário aonde o mesmo digita 2 números para ser somado , multiplicado , subtraido e divido.
-Resultado na tela:
-![](https://i.imgur.com/tJIEbY2.png)
----------------------------------------------------------------------------------------------------------------------------------------------------
-- no arquivo **TV.PY** temos um sistema para ligar , desligar e passar de canal.
-Status impresso na tela:
-![](https://i.imgur.com/yGzFL9E.png)
+Aqui está salvo as atividades que eu faço nos momentos livres.
 
-
-
-- Arquivo **RESULTADO.PY** , importa os resultado para um arquivo separado.
-
+CÓDIGOS PYTHON:
+  Neste arquivo tem alguns códigos aleatórios.
+SISTEMA BANCÁRIO:
+  Código criado através de uma atividade com a DIO(digital innovation one).
